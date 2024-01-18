@@ -24,6 +24,7 @@ Challege was to create a logo maker
 -THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## GITHUB LOCATION
-
+https://github.com/Whitney-Simpson/SVG-Logo-Maker.git
 ## RECORDING LOCATION
+<iframe src="https://drive.google.com/file/d/1sXt8BSnNsC0cKPq07vWbddpudU7Bj_J-/preview" width="640" height="480"></iframe>
 
